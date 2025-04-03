@@ -1,0 +1,13 @@
+name = "Text Placeholder API"
+filename = "placeholder-api-2.6.3+25w14craftmine.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eXts2L7r/versions/nXF5pSdR/placeholder-api-2.6.3%2B25w14craftmine.jar"
+hash-format = "sha512"
+hash = "86dd4d8b86f518e9425c6d267fa1162a4459a45f8580ab41f3d6178055be65365c714d5779fc57b3b5f5e55d7637bc55baf23fb7d7c3dad4c8b91f722153ec2d"
+
+[update]
+[update.modrinth]
+mod-id = "eXts2L7r"
+version = "nXF5pSdR"

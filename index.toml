@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "247b777586dcf8aabc033688546e14d40ac47a8e104f3e5234a251baed953b09"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "134242639876d2310610e004c22dd0299ab0f88ab0d8b77c037f37ea2566167c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -16,8 +26,17 @@ hash = "4c52034a4d8d65f05654ddbc84efbd7e29e375f92efd271914b172c1fb99245f"
 metafile = true
 
 [[files]]
+file = "mods/iris-fabric-1.8.11-snapshot+mc25w14craftmine-local.jar"
+hash = "a0d68f99f5a381d5a0a4e3a9580bff9b29f49ab7d459057888c06881800f7a51"
+
+[[files]]
 file = "mods/item-descriptions.pw.toml"
 hash = "eec9743a5d3be0530f19044a5e39b2701cce3d08f4e7c87b540b4fc3de511d31"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "fef97167fb758314fbb3c48001f411dc17a1fca309d0bd301ff743ffa3e7ba0b"
 metafile = true
 
 [[files]]
@@ -26,9 +45,37 @@ hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0e3ad9e615dbb14650e6962e125595dcfac2644e238fb67265561bd139cbf601"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "599bb55024c0dd6cdfb849d7be112d900cb79776b61b303579d4b30e79cc50e1"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard-fabric.jar"
 hash = "4377472aa468113322e3b67280915f580c7d7c2fbd2990fe834d6a25eba21228"
 
 [[files]]
+file = "mods/sodium-fabric-0.6.12-snapshot+mc25w14craftmine-local.jar"
+hash = "90c9688d589208ad50108709c45097fafabebec71ff5b0ce11eba88cf7f1871c"
+
+[[files]]
 file = "mods/tooltipfix-1.1.1-1.21.2.jar"
 hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "1ab57d5751cab9cd9ec8e0327fbb954f3d73a210e3b6475640de8a28558b6283"
+metafile = true
+
+[[files]]
+file = "shaderpacks/Complementary_r10.0.zip"
+hash = "ec3d686ddcfea1c61a8fe1bcf443b29bd150f80620f29bcbe0e31a48df5769f3"
