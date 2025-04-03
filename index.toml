@@ -1,0 +1,34 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "134242639876d2310610e004c22dd0299ab0f88ab0d8b77c037f37ea2566167c"
+metafile = true
+
+[[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "4c52034a4d8d65f05654ddbc84efbd7e29e375f92efd271914b172c1fb99245f"
+metafile = true
+
+[[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "eec9743a5d3be0530f19044a5e39b2701cce3d08f4e7c87b540b4fc3de511d31"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard-fabric.jar"
+hash = "4377472aa468113322e3b67280915f580c7d7c2fbd2990fe834d6a25eba21228"
+
+[[files]]
+file = "mods/tooltipfix-1.1.1-1.21.2.jar"
+hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"

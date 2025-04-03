@@ -1,0 +1,13 @@
+name = "Simply Craftmine"
+author = "cassiancc"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "110038eb716d1b9946d1979bd3f551cfd249ea370bd28f4c9885e105dd951fe6"
+
+[versions]
+fabric = "0.16.12"
+minecraft = "25w14craftmine"
