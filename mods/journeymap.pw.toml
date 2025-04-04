@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-fabric-craftmine-6.0.0-beta.44.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/c1ug2Wt3/journeymap-fabric-craftmine-6.0.0-beta.44.jar"
+hash-format = "sha512"
+hash = "2b81ce99082d085352d0f0d178b4428ef5b42ab2613a20f9cd9e4fec8c852e6832c729c2f99542f7252ef05f946566f237ea83615a24c7840a115217241c1e13"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "c1ug2Wt3"

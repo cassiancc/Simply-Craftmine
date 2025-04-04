@@ -1,0 +1,7 @@
+name = "AppleSkin"
+filename = "appleskin-fabric-mc25w14craftmine-3.0.6.jar"
+
+[download]
+url = "https://github.com/cassiancc/AppleSkin-Infinite/releases/download/3.0.6-25w14craftmine/appleskin-fabric-mc25w14craftmine-3.0.6.jar"
+hash-format = "sha256"
+hash = "caec959ee804c2aff0cd6aee4c27f6c7d0d8dd967a7660da18bb606fe9261ba7"

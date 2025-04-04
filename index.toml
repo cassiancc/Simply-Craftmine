@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "8b779e032f18a30db080335b2c8e5f52c68b65117419e8b6bbe7d636591b9ca6"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "247b777586dcf8aabc033688546e14d40ac47a8e104f3e5234a251baed953b09"
 metafile = true
@@ -8,6 +13,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "134242639876d2310610e004c22dd0299ab0f88ab0d8b77c037f37ea2566167c"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "6d99152010979c7e0bab855da1c3cd0c082a19fa3da55e851ad519feb3d23815"
 metafile = true
 
 [[files]]
@@ -26,22 +36,37 @@ hash = "4c52034a4d8d65f05654ddbc84efbd7e29e375f92efd271914b172c1fb99245f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
 file = "mods/iris-fabric-1.8.11-snapshot+mc25w14craftmine-local.jar"
 hash = "a0d68f99f5a381d5a0a4e3a9580bff9b29f49ab7d459057888c06881800f7a51"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "eec9743a5d3be0530f19044a5e39b2701cce3d08f4e7c87b540b4fc3de511d31"
+hash = "dc6a31d329e26868837587d7cd251d31ea1a80c04809362ae242b28421023fbe"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "fef97167fb758314fbb3c48001f411dc17a1fca309d0bd301ff743ffa3e7ba0b"
+hash = "1ee81072c109b7060f041bc8e9a4b4e3ebd28c33dba4ff038c396862d2fe7c8c"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2ffc9ce1dce40099a6581c8b2dbeb3bf730223bc134b884529a4fc16a7ab6730"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3098272705301ae8d4236190599d906666d6c4fe7b624c8da0bb5811fdcf86b8"
 metafile = true
 
 [[files]]
@@ -73,7 +98,7 @@ hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"
 
 [[files]]
 file = "mods/wi-zoom.pw.toml"
-hash = "1ab57d5751cab9cd9ec8e0327fbb954f3d73a210e3b6475640de8a28558b6283"
+hash = "c620e313aec14841a1906080205aae4b91bbc88660af6c237aef8bafc06394fa"
 metafile = true
 
 [[files]]
