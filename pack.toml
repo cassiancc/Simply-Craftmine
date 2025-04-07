@@ -1,12 +1,12 @@
 name = "Simply Craftmine"
 author = "cassiancc"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "83f909eeebe3e1e237d0898405bd834c58b1a2f0e2c46a8d8b76eb371b410951"
+hash = "4e80bc96e6655cf338077d14e838e46602b27101dd8cddc145c8739957e5ef79"
 
 [versions]
 fabric = "0.16.12"

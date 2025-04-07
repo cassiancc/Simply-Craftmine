@@ -31,6 +31,11 @@ hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
 metafile = true
 
 [[files]]
+file = "mods/craftminefix.pw.toml"
+hash = "a217a21c7cefcccf1b934be16498bfaa6b32826459f179b2f1a34937e850f44b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4c52034a4d8d65f05654ddbc84efbd7e29e375f92efd271914b172c1fb99245f"
 metafile = true
