@@ -1,0 +1,13 @@
+name = "Exchange Value Tracker"
+filename = "exchangevaluetracker-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wd5MO1ll/versions/hrex3w8g/exchangevaluetracker-1.0.0.jar"
+hash-format = "sha512"
+hash = "d0a9f25bad9d43435cfd0a0b64434820a881bf3cc8a5aa8d0d36d9be3804fa8197cff41ee3c83e0f5897c7050c8b585e669acd49e07eb8bd5a377983e249432c"
+
+[update]
+[update.modrinth]
+mod-id = "Wd5MO1ll"
+version = "hrex3w8g"

@@ -31,8 +31,12 @@ hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
 metafile = true
 
 [[files]]
-file = "mods/craftminefix.pw.toml"
-hash = "a217a21c7cefcccf1b934be16498bfaa6b32826459f179b2f1a34937e850f44b"
+file = "mods/craftminefix-1.2.1.jar"
+hash = "1599372d6229692ff7ed0b58531be0f10982f77186dcbb48b7ae3cc874a07f73"
+
+[[files]]
+file = "mods/exchange-value-tracker.pw.toml"
+hash = "d1d089a6b0d2ad8187afa57a2af5b88fe6ef6dea00d9f1ecd119bfd3ab9f7e29"
 metafile = true
 
 [[files]]
