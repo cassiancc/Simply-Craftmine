@@ -1,6 +1,6 @@
 name = "Exchange Value Tracker"
 filename = "exchangevaluetracker-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wd5MO1ll/versions/hrex3w8g/exchangevaluetracker-1.0.0.jar"
