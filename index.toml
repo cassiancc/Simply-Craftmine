@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yml"
+hash = "841d6efceff46bac2d17896650a8a9d519477aec8cea573527064dec29c303dc"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
@@ -36,7 +40,7 @@ hash = "1599372d6229692ff7ed0b58531be0f10982f77186dcbb48b7ae3cc874a07f73"
 
 [[files]]
 file = "mods/exchange-value-tracker.pw.toml"
-hash = "d1d089a6b0d2ad8187afa57a2af5b88fe6ef6dea00d9f1ecd119bfd3ab9f7e29"
+hash = "6474ba0a7cc009eb13391d4d1f07927a5fecdd9e91e67e0f65f862d927ef2a79"
 metafile = true
 
 [[files]]
