@@ -1,0 +1,13 @@
+name = "CraftMineFix"
+filename = "craftminefix-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmchfDRO/versions/ZhMoaZ4R/craftminefix-1.3.0.jar"
+hash-format = "sha512"
+hash = "926cb6370743e7690dff2200940a81f89e1de67e9ae5dfe144efd2654f93b576f40278e71ee97550b8c6b6bd7004f261ba5799adcfebb6697c7cba93257b2c4e"
+
+[update]
+[update.modrinth]
+mod-id = "xmchfDRO"
+version = "ZhMoaZ4R"
