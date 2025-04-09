@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/build.yml"
-hash = "841d6efceff46bac2d17896650a8a9d519477aec8cea573527064dec29c303dc"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
