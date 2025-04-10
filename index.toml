@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftminefix.pw.toml"
-hash = "5ca07bcfd64aae7d80f8fad455963cf1dc9f5a0a1189d1e32502a07ecdcaba7c"
+hash = "9fd61409799e83e17acdb5d902e42d1a78f4ca15d132902c5d9316b621420920"
 metafile = true
 
 [[files]]
@@ -82,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e48fadea92533a14b45d8fb64ed10e5942ee90bba874589822a766a6d47930b2"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]
