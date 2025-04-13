@@ -6,13 +6,18 @@ hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "247b777586dcf8aabc033688546e14d40ac47a8e104f3e5234a251baed953b09"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "134242639876d2310610e004c22dd0299ab0f88ab0d8b77c037f37ea2566167c"
+hash = "abb79cc31573b28526a5489ffa87ee5186bd5c0a7e592ab423a71242743be6b1"
 metafile = true
 
 [[files]]
@@ -32,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftminefix.pw.toml"
-hash = "9fd61409799e83e17acdb5d902e42d1a78f4ca15d132902c5d9316b621420920"
+hash = "053fc4356fdfbba8568f9bd65290c4d9178261a404b03bba19090fc1c84d771d"
 metafile = true
 
 [[files]]
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/i-can-t-believe-it-s-not-1-21-5.pw.toml"
+hash = "33d27cfc5b7f37e1beb9f421c979f4609879cf9b28f0c98f29ae89e3035468ff"
 metafile = true
 
 [[files]]
@@ -100,6 +110,11 @@ hash = "599bb55024c0dd6cdfb849d7be112d900cb79776b61b303579d4b30e79cc50e1"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard-fabric.jar"
 hash = "4377472aa468113322e3b67280915f580c7d7c2fbd2990fe834d6a25eba21228"
 
@@ -110,11 +125,6 @@ hash = "90c9688d589208ad50108709c45097fafabebec71ff5b0ce11eba88cf7f1871c"
 [[files]]
 file = "mods/tooltipfix-1.1.1-1.21.2.jar"
 hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"
-
-[[files]]
-file = "mods/wi-zoom.pw.toml"
-hash = "c620e313aec14841a1906080205aae4b91bbc88660af6c237aef8bafc06394fa"
-metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary_r10.0.zip"

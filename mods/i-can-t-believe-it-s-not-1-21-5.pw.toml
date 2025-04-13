@@ -1,0 +1,7 @@
+name = "I Can't Believe It's Not 1.21.5"
+filename = "i-cant-believe-its-not-1215-2.0.0.jar"
+
+[download]
+url = "https://github.com/Chocohead/I-Cant-Believe-Its-Not-1.21.5/releases/download/v2.0/i-cant-believe-its-not-1215-2.0.0.jar"
+hash-format = "sha256"
+hash = "6993f89df1313608c3a1897cbe4c19b1b36620753eb75abe0bcf18964f81e86c"
