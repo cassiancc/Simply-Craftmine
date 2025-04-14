@@ -85,6 +85,11 @@ hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "62186a5edc8a69132851c70531b17d55bf931fbfd29310a0e3f92e2fd277073a"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "3098272705301ae8d4236190599d906666d6c4fe7b624c8da0bb5811fdcf86b8"
 metafile = true
