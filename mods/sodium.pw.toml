@@ -1,0 +1,7 @@
+name = "Sodium"
+filename = "sodium-fabric-0.6.13-mika.2+mc25w14craftmine.jar"
+
+[download]
+url = "https://github.com/Mikarific/sodium/releases/download/mc25w14craftmine-0.6.13-mika.2/sodium-fabric-0.6.13-mika.2+mc25w14craftmine.jar"
+hash-format = "sha256"
+hash = "b04035efe8bf97b6385ce47a866f0e9462ef3e4939630ee778b6fc5a8282fb32"
