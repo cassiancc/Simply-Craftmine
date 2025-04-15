@@ -124,10 +124,6 @@ file = "mods/screenshot-to-clipboard-fabric.jar"
 hash = "4377472aa468113322e3b67280915f580c7d7c2fbd2990fe834d6a25eba21228"
 
 [[files]]
-file = "mods/sodium-fabric-0.6.12-snapshot+mc25w14craftmine-local.jar"
-hash = "90c9688d589208ad50108709c45097fafabebec71ff5b0ce11eba88cf7f1871c"
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "97d4e429bb4964294c27b530305a19d831b46518cc7260db2fb282a7c471b29b"
 metafile = true
