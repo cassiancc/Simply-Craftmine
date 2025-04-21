@@ -11,6 +11,11 @@ hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
+file = "mods/bugmine.pw.toml"
+hash = "3ff614f7d90eeb2d4e3f33b28aba11e505769eddf5dd36c7b22789df34fd5763"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "247b777586dcf8aabc033688546e14d40ac47a8e104f3e5234a251baed953b09"
 metafile = true
@@ -81,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
 metafile = true
 
 [[files]]
@@ -131,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix-1.1.1-1.21.2.jar"
 hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+metafile = true
 
 [[files]]
 file = "shaderpacks/Complementary_r10.0.zip"

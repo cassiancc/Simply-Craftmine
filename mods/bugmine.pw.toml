@@ -1,0 +1,13 @@
+name = "BugMine"
+filename = "BugMine-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bpgD60n4/versions/98tKO32B/BugMine-0.1.3.jar"
+hash-format = "sha512"
+hash = "5ab95e9008327cf1a163e246975ba0ad1c66889bc40b056deff7e4b4ed9218383bed4a8de5b025767f8ece1e074363b79c1333ed2d712b69e1c34ff39e461daf"
+
+[update]
+[update.modrinth]
+mod-id = "bpgD60n4"
+version = "98tKO32B"
