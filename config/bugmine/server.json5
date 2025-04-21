@@ -1,0 +1,13 @@
+{
+	applyLevelBiomeTags: true,
+	functionalShields: true,
+	obtainableDragonFire: false,
+	obtainableInItTogether: true,
+	obtainableNoDrops: true,
+	preventCtrlQFreeze: true,
+	preventIngredientSwapping: true,
+	preventIngredientThrowing: true,
+	preventPacketDisconnect: true,
+	preventSoulLinkCrash: true,
+	rabbitsSpawnsRabbits: true
+}
