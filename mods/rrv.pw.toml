@@ -1,0 +1,13 @@
+name = "Reliable Recipe Viewer"
+filename = "reliable-recipe-viewer-6.6.0+25w14craftmine-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5VolwT6c/versions/JruB9am9/reliable-recipe-viewer-6.6.0%2B25w14craftmine-fabric.jar"
+hash-format = "sha512"
+hash = "bbe847215119c6a16efc79dbd6461ca8fab3c96cd87e5c6ae1d11ded1bcfdd6657cc85fe594acf79b449c1c1b82629c038610a574cddef7c0d5edf9c3bb2fad8"
+
+[update]
+[update.modrinth]
+mod-id = "5VolwT6c"
+version = "JruB9am9"

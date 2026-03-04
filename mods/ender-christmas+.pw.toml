@@ -1,0 +1,13 @@
+name = "Ender Christmas Plus"
+filename = "ender-christmas-plus-1.1+1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f4fTMEgx/versions/QbSDeFbM/ender-christmas-plus-1.1%2B1.21.4.jar"
+hash-format = "sha512"
+hash = "f12bcde3257b3515f74ad98700caa94b06b5698205abbb551d09a29fc097bf976dcfaa2b12d46f208450eaabf67cc69a8f117ca579dc913a7b2963e8e372010a"
+
+[update]
+[update.modrinth]
+mod-id = "f4fTMEgx"
+version = "QbSDeFbM"

@@ -1,0 +1,13 @@
+name = "I Can't Believe It's Not 1.21.5"
+filename = "i-cant-believe-its-not-1215-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NDbHbdYE/versions/ONr68msJ/i-cant-believe-its-not-1215-2.1.0.jar"
+hash-format = "sha512"
+hash = "ece451db811a83aa8924fbe72ff809f8441e7566415735172d3e93e58b1b2e2a7fb0b2b0c672c646708d79ed750feba980cd160ba88dddba519cf2f3e17191ad"
+
+[update]
+[update.modrinth]
+mod-id = "NDbHbdYE"
+version = "ONr68msJ"

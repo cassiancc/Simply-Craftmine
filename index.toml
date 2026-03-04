@@ -1,6 +1,66 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bugmine/client.json5"
+hash = "abecd570d1c057e5f39f0abbe03fe98a76c42bfb565d930f3d48e1cda8730ea3"
+
+[[files]]
+file = "config/bugmine/server.json5"
+hash = "7083b1f671fc64a0f9073dfce3bb3923fc62fbb20975e875acb36d2c5991e291"
+
+[[files]]
+file = "config/craftminefix.config"
+hash = "1aeda153658f5405a32cc1af4b07c8ad11ecf2ac5e0e7581e8a2be321a570c66"
+
+[[files]]
+file = "config/immersiveoverlays.json"
+hash = "14791ea49505968bf637ef2a7422e729698c161388cdf6c826092a0881c65cee"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "f007e41a726ab3781eb8e9e23a81f9717d6b008c35546daacfd18ef872ee8887"
+
+[[files]]
+file = "config/rrv/bookmarks.json"
+hash = "87bd9d963a2410a41dde6354eae6f15e16c91313353a14a75929cf2baf30bde8"
+
+[[files]]
+file = "config/rrv/client_settings.json"
+hash = "4185f94797000bdb647c43edd95e20d78da952b2aa1ff93c5cf142c348aaf365"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "61196dd572bfb9c74f10d779ee8878042fadbfe0be657097bb853519fe077f52"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "de4f2f5353a24b61cb19e0a347de2a61d26a51bfc0010174d0c5a4abac09c8e4"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "8461b90e2fe73705f09cb3fcbba675509d84136883e15a27d6c0c6510460cd10"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "9f989970945b12056dcd8e95905000333c7e41bbdbe7c0f7cd84744ec37c0d09"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "d2494b415d5da45b03b1d16f540329d36acd4a8fe6117f6c8d33cfdcafec6399"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "66f94628f9c481415be1b4763c07e8a439835e75c92d3fcd9ae2702d109d3f40"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "b0332cb6dcbccd872cf1ea3429f0956e0c4a4911cc7218af48e96190101a57c6"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "69cbb8d6c6b3b55cabb1896a59d3d18011cc868abf7b49173ea3bf6bc2321c2a"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
@@ -27,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "6d99152010979c7e0bab855da1c3cd0c082a19fa3da55e851ad519feb3d23815"
+hash = "b1f2976bfdd6b99325749f7519978ecd242e57973c6b07f425780a948e87555d"
 metafile = true
 
 [[files]]
@@ -41,8 +101,18 @@ hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
 metafile = true
 
 [[files]]
+file = "mods/craftmine-biome-fix.pw.toml"
+hash = "4448ab7b98526f430c9fdc8d5e6d3fe49c43ed33c78dfc293804b914c43e70ab"
+metafile = true
+
+[[files]]
 file = "mods/craftminefix.pw.toml"
-hash = "053fc4356fdfbba8568f9bd65290c4d9178261a404b03bba19090fc1c84d771d"
+hash = "effeca2c06bccf692c55c1dc5010d0d4aff5ee8353f82e740126d206b343472a"
+metafile = true
+
+[[files]]
+file = "mods/ender-christmas+.pw.toml"
+hash = "6150e5b43db0cf9c4d319cdc5951cae7d8b57c5d21e76cb58337f7182bba9f37"
 metafile = true
 
 [[files]]
@@ -57,12 +127,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
-file = "mods/i-can-t-believe-it-s-not-1-21-5.pw.toml"
-hash = "33d27cfc5b7f37e1beb9f421c979f4609879cf9b28f0c98f29ae89e3035468ff"
+file = "mods/ferrite-core.pw.toml"
+hash = "58d01821618f01d70700ef0918a3e698cdc874926183e59be420df2021493b1c"
+metafile = true
+
+[[files]]
+file = "mods/i-cant-believe-its-not-1215.pw.toml"
+hash = "d7b4e70f34c242c5d922c03e95ed5fe72b215863b60f2fd86d382e74989045bf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-overlays.pw.toml"
+hash = "6f395b11654280784bd758fa76f1f84e9546885426e9af76874cdc543f541153"
 metafile = true
 
 [[files]]
@@ -71,7 +151,7 @@ hash = "a0d68f99f5a381d5a0a4e3a9580bff9b29f49ab7d459057888c06881800f7a51"
 
 [[files]]
 file = "mods/item-descriptions.pw.toml"
-hash = "f2d55a3eb7d4e124aad631975ed4b4a958f9f3cfaa743108a848dad13e941c47"
+hash = "bc3af0d0329b562e0a182640a3159068645dbb2cff4626827309d8ca459cd802"
 metafile = true
 
 [[files]]
@@ -86,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
+hash = "b7fc8405cd040dc5334e6794588d74cd5223e6ef51df5e7702828059e37d1123"
 metafile = true
 
 [[files]]
@@ -96,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "3098272705301ae8d4236190599d906666d6c4fe7b624c8da0bb5811fdcf86b8"
+hash = "1caa6218b44c73e330ef59f646d667ddc3706d857d39af46ba4122fb1b16e989"
 metafile = true
 
 [[files]]
@@ -120,8 +200,8 @@ hash = "599bb55024c0dd6cdfb849d7be112d900cb79776b61b303579d4b30e79cc50e1"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "971c19f9973cfbe98103f091734b25e9dfc5c7dba7cb3905021133ee6653abc9"
+file = "mods/rrv.pw.toml"
+hash = "99e51e0cc94c534fac511ad29a5d87ed705ca3f153bcd46aca58fb169b186660"
 metafile = true
 
 [[files]]
@@ -139,7 +219,7 @@ hash = "2e0a46693a1c4fd93ec5b9aa75571f1aa406325fe4aad442e76363a09488c2f9"
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+hash = "95150e9d550c4de7e99d1a425d1f6be470cd4fd75d17d3c859e1a6a66d7a0738"
 metafile = true
 
 [[files]]

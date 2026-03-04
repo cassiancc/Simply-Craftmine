@@ -1,0 +1,13 @@
+name = "CraftMine Biome Fix"
+filename = "craftminebiomefix-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1SkIV5qw/versions/BWvKmb6Q/craftminebiomefix-1.0.1.jar"
+hash-format = "sha512"
+hash = "f80910a96ad29ae5a1ebf2e370c0b9735f2f10cbdafac43450f77ec9f936af4af20738051321ea126896a72f2522b0073f9e175bcacd3c36f07499053c3eefa9"
+
+[update]
+[update.modrinth]
+mod-id = "1SkIV5qw"
+version = "BWvKmb6Q"

@@ -1,13 +1,13 @@
 name = "CraftMineFix"
-filename = "craftminefix-1.4.0.jar"
+filename = "craftminefix-1.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmchfDRO/versions/WfcSTo24/craftminefix-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/xmchfDRO/versions/CPjmkmin/craftminefix-1.5.0.jar"
 hash-format = "sha512"
-hash = "f1a75f711cebf0c1ed6c5b14b3ae7860415b73ee25417aeddf83a5131217599863cc8fa9cc621b31655b019e3fbf8898c2a7ffe9fbf7f0543d75ee3c8af94807"
+hash = "7c061238423562ec5cacadfd9f7acf23663a48f72a657be321b2041f253b928d489713262755596f4d0b0d4aa080da94f6e1069bb820510761bef91caa1dc4c4"
 
 [update]
 [update.modrinth]
 mod-id = "xmchfDRO"
-version = "WfcSTo24"
+version = "CPjmkmin"

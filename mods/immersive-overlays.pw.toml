@@ -1,0 +1,13 @@
+name = "Immersive Overlays"
+filename = "immersiveoverlays-fabric-1.3+1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PKoLkD98/versions/pT90FvhX/immersiveoverlays-fabric-1.3%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "680f0a9ff7e1c383903213b520abf9fa74df5606ea15a8b87f693728574c0f89d498a0a4ccfb2ef98ffbf1d18b6a8f54b64a8f325c375de0b92b59f1dcf49a27"
+
+[update]
+[update.modrinth]
+mod-id = "PKoLkD98"
+version = "pT90FvhX"
