@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b7fc8405cd040dc5334e6794588d74cd5223e6ef51df5e7702828059e37d1123"
+hash = "3f0c7b26ee2de21edf25b6bc1fc457e3f3d984d9fa2386076b5868be3458c7a6"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "78441cffd3b6ffb65c8a5ffa1838eadddf9c78fe4397011feda355d59a56ee56"
+hash = "62fad54436156968c02ddf3c037a5aace5010a6b4f573de4ca4665b987a881c3"
 metafile = true
 
 [[files]]
